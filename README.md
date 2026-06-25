@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+![License](https://img.shields.io/badge/license-Apache v2.o-orange)
 
 ## 📖 Overview
 
