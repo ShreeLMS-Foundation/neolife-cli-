@@ -4,8 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
-![License](https://img.shields.io/badge/license-Apache v2.o-orange)
-
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ## 📖 Overview
 
 NeoLife CLI is an open-source command-line tool that helps developers generate production-ready Flutter applications, Java Spring Boot backends, APIs, themes, widgets, models, repositories, and complete project architectures with simple commands.
